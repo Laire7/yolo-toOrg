@@ -1,0 +1,6 @@
+train: C:\Users\SBA\simpson\sepImgLabSimpson_tvt\train\images
+val: C:\Users\SBA\simpson\sepImgLabSimpson_tvt\valid\images
+test: C:\Users\SBA\simpson\sepImgLabSimpson_tvt\test\images
+
+nc: 4
+names: ['bart', 'homer', 'lisa', 'maggie']
